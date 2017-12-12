@@ -1,3 +1,8 @@
+# Cobbled together from o'reilly book, Hands-on Machine learning with scikit-learn & tensorflow
+# by Aurelien Geron
+
+# Not actually working
+
 import gym
 env = gym.make('CartPole-v0')
 
